@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 <!--![counter](https://[YourEndpoint].m.pipedream.net) needs a pinpoint account-->
 
-My name is Dominik, glad you found this page. Currently, I am training to sharpen my often chaotic skillset before securing a job. In the past, I studied Astrophysics at the University of Kent and worked as a postgraduate research student at Queen's University Belfast for ~18 months working on astronomical spectroscopy for the ESA Hera mission. These days, my humble interests revolve around data science, computational methods and Linux SysAdmin.
+My name is Dominik, glad you found this page. Currently, I am training to sharpen my often chaotic skillset before securing a job and have no formal affiliation.  In the past, I studied Astrophysics at the University of Kent and worked as a postgraduate research student at Queen's University Belfast for ~18 months working on astronomical spectroscopy for the ESA Hera mission. These days, my humble interests revolve around data science, computational methods and Linux SysAdmin.
+
+My ORCID Page: 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5787-9034" href="https://orcid.org/0000-0001-5787-9034" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-5787-9034</a></div>
  
 ### :telescope: Currently Learning 
 
@@ -61,6 +64,7 @@ Having gathered a rather limitied computing experience from my days of academia,
 * Email: [dakiersz@protonmail.com](mailto:dakiersz@protonmail.com)
 * Signal: TBD
 * Twitter: :x:
+
 
 
 
