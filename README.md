@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--![counter](https://[YourEndpoint].m.pipedream.net) needs a pinpoint account-->
 
-My name is Dominik, glad you found this page. Currently, I am training to sharpen my often chaotic skillset before securing a job. In the past, I studied Astrophysics at the University of Kent and worked as a postgraduate research student at Queen's University Belfast for ~18 months working on astronomical spectroscopy for the ESA Hera mission. These days, my humble computing interests revolve around data science, Linux SysAdmin and HPC with GPUs. 
+My name is Dominik, glad you found this page. Currently, I am training to sharpen my often chaotic skillset before securing a job. In the past, I studied Astrophysics at the University of Kent and worked as a postgraduate research student at Queen's University Belfast for ~18 months working on astronomical spectroscopy for the ESA Hera mission. These days, my humble interests revolve around data science, computational methods and Linux SysAdmin.
  
 ### :telescope: Currently Learning 
 
