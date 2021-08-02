@@ -28,7 +28,6 @@ I aim to learn a number of skills by the end of 2021:
 
 * CUDA (Python) and GPU Programming
 * Deep Learning (Keras + TensorFlow)
-* LPIC-1 (Linux Sysadmin)
 * Docker
 * Selenium (Python)
 * Basic WebDev - HTML, CSS
