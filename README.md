@@ -24,14 +24,14 @@ My ORCID Page:
  
 ### :telescope: Currently Learning 
 
-I aim to learn a number of skills by the end of 2021:
+I aim to learn a number of skills:
 
-* CUDA (Python) and GPU Programming
+* CUDA (Python) and GPU Programming with Numba
 * Deep Learning (Keras + TensorFlow)
 * Docker
 * Selenium (Python)
 * Basic WebDev - HTML, CSS
-* MySQL
+* PostgreSQL
 
 ### :arrow_upper_right: Current Projects 
 
@@ -40,6 +40,7 @@ I aim to learn a number of skills by the end of 2021:
 * **Transfering any useable code** from my BSc/MPhys classes and projects onto GitHub - mainly Python + Astropy, MATLAB and FORTRAN 95.
 * MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 * A personal website - [somethingstochastic.com](https://somethingstochastic.com) with [Bethan Iley](https://github.com/bethaniley)
+* Contributions to other projects, where possible.
 
 ### :satellite: Experience
 
