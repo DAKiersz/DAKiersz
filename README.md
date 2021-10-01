@@ -35,12 +35,13 @@ I aim to learn a number of skills:
 
 ### :arrow_upper_right: Current Projects 
 
-**All are WIP, private for now!**
+**Be advised that currently my repositories are private and this GitHub is under construction. Thank you.**
 
 * **Transfering any useable code** from my BSc/MPhys classes and projects onto GitHub - mainly Python + Astropy, MATLAB and FORTRAN 95.
+* Exercises and workshops from the past.
 * MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 * A personal website - [somethingstochastic.com](https://somethingstochastic.com) with [Bethan Iley](https://github.com/bethaniley)
-* Contributions to other projects, where possible.
+* Contributions to other projects, where possible. Should be public on my profile.
 
 ### :satellite: Experience
 
