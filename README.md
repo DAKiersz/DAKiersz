@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <!--![counter](https://[YourEndpoint].m.pipedream.net) needs a pinpoint account-->
 
-My name is Dominik, glad you found this page. I am currently an Associate Platform Engineer at ASOS Ltd. I am not currently interested in further work oppotunities.
+My name is Dominik, glad you found this page. I am currently an Associate Platform Engineer at ASOS Ltd. 
 
-In the past, I studied Astrophysics at the University of Kent and worked as a postgraduate research student at Queen's University Belfast for ~18 months working on astronomical spectroscopy for the ESA Hera mission. In for most of the 2021, I had no formal affilliation and trained to sharpen my often chaotic skillset before securing a job, including getting onto a competitive ASOS Data Engineering Academy. These days, my humble interests revolve around DevOps, data science, computational methods and Linux Sysadmin working on some personal projects.
+In the past, I studied Astrophysics at the University of Kent and worked as a postgraduate research student at Queen's University Belfast for ~18 months working on astronomical spectroscopy for the ESA Hera mission. For most of the year 2021, I had no formal affiliation and trained to sharpen my often chaotic skillet before securing a job, including getting onto a competitive ASOS Data Engineering Academy in early 2022. These days, my humble interests revolve around DevOps, data science, computational methods and Linux Sysadmin working on some personal projects.
 
 <div itemscope itemtype="https://schema.org/Person">
   <a itemprop="sameAs" content="https://orcid.org/0000-0001-5787-9034" href="https://orcid.org/0000-0001-5787-9034" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> https://orcid.org/0000-0001-5787-9034</a>
