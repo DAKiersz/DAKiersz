@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 My name is Dominik, glad you found this page. I am currently an Associate Platform Engineer at ASOS Ltd. 
 
+I'm formally a data scientist with experience in software development, machine learning and high performance computing. I have experience with Python (number of packages including NumPy and Tensorflow) other languages including C, C#, SQL (Postgres, T-SQL) and FORTRAN. I also have an amateur interest in Linux, general system administration and SecOps.
+
 In the past, I studied Astrophysics at the University of Kent and worked as a postgraduate research student at Queen's University Belfast for ~18 months working on astronomical spectroscopy for the ESA Hera mission. For most of the year 2021, I had no formal affiliation and trained to sharpen my often chaotic skillet before securing a job, including getting onto a competitive ASOS Data Engineering Academy in early 2022. These days, my humble interests revolve around DevOps, data science, computational methods and Linux Sysadmin working on some personal projects.
 
 <div itemscope itemtype="https://schema.org/Person">
