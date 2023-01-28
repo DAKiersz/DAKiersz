@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 My name is Dominik, glad you found this page. I am currently an Associate Platform Engineer at ASOS Ltd.
 
-I'm currently a platform engineer, and formally a data scientist, with experience in DevOps, software development and machine learning. I have experience with Python (number of packages including NumPy and Tensorflow) other languages including, but not limited to: Powershell, Bash, C#, SQL (Postgres, T-SQL). My interests revolve around DevOps, infrastructure automation and Linux while working on personal projects.
+I am platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. Always thrilled to learn new technologies and making workflows more efficient, while efficiently communicating my changes across teams, and making friends along the way!
 
-In the past, I acquired an MPhys degree at University of Kent and worked as a postgraduate research student at Queen's University Belfast for ~17 months working on astronomical spectroscopy for the ESA Hera mission. For most of the year 2021, I had no formal affiliation before transferring to industry and worked on other projects, including getting onto a competitive ASOS Data Engineering Academy in early 2022.
+Over the years, I have used various scripting lanages (Python, Pwsh, Bash) and technologies like Docker to enhance my workflow, and homelab in my spare time to learn more. Prior to joining tech, I acquired an MPhys degree at University of Kent, and worked as a postgraduate research student at Queen's University Belfast working on astronomical spectroscopy for the ESA Hera mission.
 
-**My Github profile is not frequently updated, and still needs some work to bring it up to speed!**
+I hold AZ-104 and AZ-900/DP-900, and am currently studying for AZ-400 and AZ-700.
 
 ### Links
 
@@ -47,29 +47,30 @@ Email: <a rel="me" href="mailto:dakiersz.ud3cc@8shield.net"> dakiersz.ud3cc@8shi
  
 ### :telescope: Currently Learning
 
-- Azure (AZ-104, AZ-400)
-- Terraform / Ansible
+- Azure (AZ-400, AZ-700)
+- Terraform
 
 ### :arrow_upper_right: Current Projects
 
-**Be advised that currently my repositories are private and this GitHub is under construction. Thank you.**
+**Be advised that currently my repositories are private and this GitHub is under construction. Thank you!**
 
-- Homelab - Building secure home infrastructure from scratch.
+- Homelab - Building secure home infrastructure and gaming servers from scratch.
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 - A personal blog (WIP) [somethingstochastic.com](https://somethingstochastic.com)
 - CV (WIP) [cv.kiersz.dev](cv.kiersz.dev)
 - Contributions to other projects, where possible. Should be public on my profile....
 
+There is always more coming. :wink:
 ### :satellite: Experience
 
-Updated as for late 2022, having worked in IT professionally, alongside my daily amateur shenanigans. I also have limitied computing experience from my days in academia.
+Updated as for early 2023, having worked in IT professionally, alongside my daily amateur shenanigans. I also have limitied computing experience from my days in academia.
 
-- DevOps - Azure Cloud (including Azure DevOps [Repos, Pipelines CI/CD], Powershell and CLI), Docker, Pester, KQL, Grafana, Go (Language).
+- DevOps - Azure Cloud (including Azure DevOps [Repos, Pipelines CI/CD], Powershell and CLI), Docker, Pester, KQL, Grafana. I'm familiar with Vagrant, Terraform.
 - Python - I worked with various packages (NumPy, SciPy, AstroPy+Specutils, Pandas, Tensorflow, Keras) for a number of years.
 - Bash and Linux SysAdmin (Debian and Arch based systems, Proxmox, familarity with Ansible).
 - LaTeX and Markdown
-- VCS with Git (obviously)
-- HTML+CSS with Hugo Jamstack
+- VCS with Git
+- HTML + CSS with Hugo Jamstack
 - MATLAB - Image processing and numerical methods.
 - FORTRAN 95 - The early days of my adventures with programming which also helped with my MPhys project.
 - Various other software packages including and not limited to: ESOReflex, SAO DS9, ANSYS Autodyn, Emacs and other useful SysAdmin tools, in particular data managment and recovery (e.g. gparted, photorec).
