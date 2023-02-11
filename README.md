@@ -49,17 +49,19 @@ Email: <a rel="me" href="mailto:dakiersz.ud3cc@8shield.net"> dakiersz.ud3cc@8shi
  
 ### :telescope: Currently Learning
 
-- Azure (AZ-400, AZ-700)
+- Azure (AZ-400, AZ-700?)
 - Terraform
+- Ansible
 
 ### :arrow_upper_right: Current Projects
 
 **Be advised that currently my repositories are private and this GitHub is under construction. Thank you!**
 
-- Homelab - Building secure home infrastructure and gaming servers from scratch.
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
+- ELIXIR - Helping to develop an introduction to CI/CD using GitHub Actions.
 - A personal blog (WIP) [somethingstochastic.com](https://somethingstochastic.com)
-- CV (WIP) [cv.kiersz.dev](cv.kiersz.dev)
+- Personal frontpage [kiersz.dev](kiersz.dev)
+- Homelab - Building secure home infrastructure and gaming servers from scratch.
 - Contributions to other projects, where possible. Should be public on my profile....
 
 There is always more coming. :wink:
