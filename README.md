@@ -58,7 +58,7 @@ Email: <a rel="me" href="mailto:dakiersz.ud3cc@8shield.net"> dakiersz.ud3cc@8shi
 **Be advised that currently my repositories are private and this GitHub is under construction. Thank you!**
 
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
-- ELIXIR - Helping to develop an introduction to CI/CD using GitHub Actions.
+- ELIXIR-CONVERGE - Helping to develop an introduction to CI/CD using GitHub Actions for ELIXIR-CONVERGE project.
 - A personal blog (WIP) [somethingstochastic.com](https://somethingstochastic.com)
 - Personal frontpage [kiersz.dev](kiersz.dev)
 - Homelab - Building secure home infrastructure and gaming servers from scratch.
