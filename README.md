@@ -25,7 +25,7 @@ Over the years, I have used various scripting lanages (Python, Pwsh, Bash) and t
 
 Prior to joining tech, I acquired an MPhys degree at University of Kent, and worked as a postgraduate research student at Queen's University Belfast working on astronomical spectroscopy for the ESA Hera mission.
 
-I hold AZ-104 and AZ-900/DP-900, and am currently studying for AZ-400 and AZ-700.
+I hold AZ-104 and AZ-900/DP-900, and am currently studying for AZ-400 and AZ-305.
 
 ### Links
 
@@ -64,16 +64,9 @@ Email: <a rel="me" href="mailto:dakiersz.ud3cc@8shield.net"> dakiersz.ud3cc@8shi
 - Contributions to other projects, where possible. Should be public on my profile....
 
 There is always more coming. :wink:
+
 ### :satellite: Experience
 
 Updated as for early 2023, having worked in IT professionally, alongside my daily amateur shenanigans. I also have limitied computing experience from my days in academia.
 
-- DevOps - Azure Cloud (including Azure DevOps [Repos, Pipelines CI/CD], Powershell and CLI), Docker, Pester, KQL, Grafana. I'm familiar with Vagrant, Terraform.
-- Python - I worked with various packages (NumPy, SciPy, AstroPy+Specutils, Pandas, Tensorflow, Keras) for a number of years.
-- Bash and Linux SysAdmin (Debian and Arch based systems, Proxmox, familarity with Ansible).
-- LaTeX and Markdown
-- VCS with Git
-- HTML + CSS with Hugo Jamstack
-- MATLAB - Image processing and numerical methods.
-- FORTRAN 95 - The early days of my adventures with programming which also helped with my MPhys project.
-- Various other software packages including and not limited to: ESOReflex, SAO DS9, ANSYS Autodyn, Emacs and other useful SysAdmin tools, in particular data managment and recovery (e.g. gparted, photorec).
+CV coming soon.
