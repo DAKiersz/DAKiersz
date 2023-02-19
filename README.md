@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--![counter](https://[YourEndpoint].m.pipedream.net) needs a pinpoint account-->
 
-My name is Dominik, glad you found this page. I am currently an Associate Platform Engineer at ASOS Ltd.
+My name is Dominik, glad you found this page.
 
 I am platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. Always thrilled to learn new technologies and making workflows more efficient, while efficiently communicating my changes across teams, and making friends along the way!
 
