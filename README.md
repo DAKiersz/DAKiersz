@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is Dominik, glad you found this page.
 
-I am platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. Always thrilled to learn new technologies and making workflows more efficient, while efficiently communicating my changes across teams, and making friends along the way!
+I am platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. Always thrilled to learn new technologies and to make workflows more efficient, while efficiently communicating my changes across teams, and making friends along the way!
 
 Over the years, I have used various scripting lanages (Python, Pwsh, Bash) and technologies like Docker to enhance my workflow, and homelab in my spare time to learn more. 
 
