@@ -27,10 +27,12 @@ Prior to joining tech, I acquired an MPhys degree at University of Kent, and wor
 
 I hold AZ-104 and AZ-900/DP-900, and am currently studying for AZ-400 and AZ-305.
 
-### Links
+### Email
 
 <div>
-Email: <a rel="me" href="mailto:dakiersz.ud3cc@8shield.net"> dakiersz.ud3cc@8shield.net</a> (This is alias for initial contact to prevent bot scraping)</div>
+<a rel="me" href="mailto:dakiersz.ud3cc@8shield.net"> dakiersz.ud3cc@8shield.net</a> (This is alias for initial contact to prevent bot scraping)</div>
+
+### Other Links
 
 <div itemscope itemtype="https://schema.org/Person">
   <a itemprop="sameAs" content="https://www.linkedin.com/in/dakiersz/" href="https://www.linkedin.com/in/dakiersz/" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png" style="width:1em;margin-right:.5em;" alt="LinkedIn icon"> LinkedIn</a>
@@ -40,12 +42,7 @@ Email: <a rel="me" href="mailto:dakiersz.ud3cc@8shield.net"> dakiersz.ud3cc@8shi
   <a itemprop="sameAs" content="https://orcid.org/0000-0001-5787-9034" href="https://orcid.org/0000-0001-5787-9034" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a>
 </div>
 
-<div><a rel="me" href="https://techhub.social/@DAKiersz">Mastodon</a>
-</div>
 
-<div><a rel="me" href="https://twitter.com/DAKiersz">Twitter</a> (Placeholder only)
-</div>
- 
 ### :telescope: Currently Learning
 
 - Azure (AZ-400, AZ-305)
