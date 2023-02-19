@@ -59,7 +59,7 @@ Email: <a rel="me" href="mailto:dakiersz.ud3cc@8shield.net"> dakiersz.ud3cc@8shi
 
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 - A blog [somethingstochastic.com](https://somethingstochastic.com)
-- A frontpage [kiersz.dev](kiersz.dev)
+- A frontpage [kiersz.dev](https//kiersz.dev)
 - Homelab - Building secure home infrastructure and gaming servers from scratch.
 - Contributions to other projects, where possible. Should be public on my profile....
 
@@ -67,6 +67,4 @@ There is always more coming. :wink:
 
 ### :satellite: Experience
 
-Updated as for early 2023, having worked in IT professionally, alongside my daily amateur shenanigans. I also have limitied computing experience from my days in academia.
-
-CV coming soon.
+Full CV coming soon.
