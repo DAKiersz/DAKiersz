@@ -67,4 +67,4 @@ There is always more coming. :wink:
 
 ### :satellite: Experience
 
-Full CV coming soon.
+You can find my CV on [kiersz.dev](https://kiersz.dev)
