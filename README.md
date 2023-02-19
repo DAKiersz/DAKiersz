@@ -30,7 +30,7 @@ I hold AZ-104 and AZ-900/DP-900, and am currently studying for AZ-400 and AZ-305
 ### Links
 
 <div>
-Email: <a rel="me" href="mailto:dakiersz.ud3cc@8shield.net"> dakiersz.ud3cc@8shield.net</a> (This is alias for initial contact to prevent bot scraping)
+Email: <a rel="me" href="mailto:dakiersz.hafzu@8shield.net"> dakiersz.hafzu@8shield.net</a> (This is alias for initial contact to prevent bot scraping!)
 </div>
 
 <div itemscope itemtype="https://schema.org/Person">
