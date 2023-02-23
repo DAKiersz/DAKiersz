@@ -25,7 +25,7 @@ Over the years, I have used various scripting lanages (Python, Pwsh, Bash) and t
 
 Prior to joining tech, I acquired an MPhys degree at University of Kent, and worked as a postgraduate research student at Queen's University Belfast working on astronomical spectroscopy for the ESA Hera mission.
 
-I hold AZ-104 and AZ-900/DP-900, and am currently studying for AZ-400 and AZ-305.
+I hold AZ-104, AZ-400 and AZ-900/DP-900.
 
 ### Email
 
