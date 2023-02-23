@@ -45,7 +45,7 @@ I hold AZ-104, AZ-400 and AZ-900/DP-900.
 
 ### :telescope: Currently Learning
 
-- Azure (AZ-400, AZ-305)
+- Azure (always)
 - Terraform
 - Ansible
 
