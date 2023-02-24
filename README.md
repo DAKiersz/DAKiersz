@@ -55,7 +55,7 @@ I hold AZ-104, AZ-400 and AZ-900/DP-900.
 
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 - A blog [somethingstochastic.com](https://somethingstochastic.com)
-- A frontpage [kiersz.dev](https//kiersz.dev)
+- A frontpage [kiersz.dev](https://kiersz.dev)
 - Homelab - Building secure home infrastructure and gaming servers from scratch.
 - Contributions to other projects, where possible. Should be public on my profile....
 
