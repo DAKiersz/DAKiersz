@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is Dominik, glad you found this page.
 
-I am platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. Always thrilled to learn new technologies and to make workflows more efficient, while efficiently communicating my changes across teams, and making friends along the way!
+I am a platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. Always thrilled to learn new technologies and to make workflows more efficient, while efficiently communicating my changes across teams, and making friends along the way!
 
 Over the years, I have used various scripting lanages (Python, Pwsh, Bash) and technologies like Docker to enhance my workflow, and homelab in my spare time to learn more. 
 
@@ -45,21 +45,21 @@ I hold AZ-104, AZ-400 and AZ-900/DP-900.
 
 ### :telescope: Currently Learning
 
-- Azure (always)
+- Azure (always...)
 - Terraform
 - Ansible
+- Networking
 
-### :arrow_upper_right: Current Projects
+### :arrow_upper_right: Current Projects (Ongoing)
 
-**Be advised that currently my repositories are private and this GitHub is under construction. Thank you!**
+**Be advised that currently my repositories are private and this GitHub is under construction :construction:. Thank you!**
 
+- Homelab - Building secure home infrastructure and gaming servers from scratch. I'm currently rewriting the whole infra for it using state-of-the-art tools like Terraform and Ansible.
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 - A blog [somethingstochastic.com](https://somethingstochastic.com)
-- A frontpage [kiersz.dev](https://kiersz.dev)
-- Homelab - Building secure home infrastructure and gaming servers from scratch.
+- A frontpage [kiersz.dev](https://kiersz.dev) with an updated CV, as found in my repos.
+- A public Obsidian [vault](https://dakiersz-group.gitlab.io/obsidian-dak-public/) hosted on GitLab Pages. This is a boilerplate, knowledge base to share.
 - Contributions to other projects, where possible. Should be public on my profile....
-
-There is always more coming. :wink:
 
 ### :satellite: Experience
 
