@@ -35,13 +35,15 @@ I hold AZ-104, AZ-400 and AZ-900/DP-900.
 ### Other Links
 
 <div itemscope itemtype="https://schema.org/Person">
+  <a itemprop="sameAs" content="https://gitlab.com/DAKiersz" href="https://gitlab.com/DAKiersz" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgitlab-logo-png-transparent.png&f=1&nofb=1&ipt=14a61ec6c620d2eca409c6cb7e6afa734deb6f7a68105abb2c0b676bd86e0444&ipo=images" style="width:1em;margin-right:.5em;" alt="GitLab icon"> GitLab</a>
+
+<div itemscope itemtype="https://schema.org/Person">
   <a itemprop="sameAs" content="https://www.linkedin.com/in/dakiersz/" href="https://www.linkedin.com/in/dakiersz/" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png" style="width:1em;margin-right:.5em;" alt="LinkedIn icon"> LinkedIn</a>
 </div>
 
 <div itemscope itemtype="https://schema.org/Person">
   <a itemprop="sameAs" content="https://orcid.org/0000-0001-5787-9034" href="https://orcid.org/0000-0001-5787-9034" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> ORCID</a>
 </div>
-
 
 ### :telescope: Currently Learning
 
@@ -58,8 +60,7 @@ I hold AZ-104, AZ-400 and AZ-900/DP-900.
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 - A blog [somethingstochastic.com](https://somethingstochastic.com)
 - A frontpage [kiersz.dev](https://kiersz.dev) with an updated CV, as found in my repos.
-- A public Obsidian [vault](https://dakiersz-group.gitlab.io/obsidian-dak-public/) hosted on GitLab Pages. This is a boilerplate, knowledge base to share.
-- Contributions to other projects, where possible. Should be public on my profile....
+- A public Obsidian [vault](https://dakiersz-group.gitlab.io/obsidian-dak-public/) hosted on GitLab Pages [here](https://gitlab.com/dakiersz-group/obsidian-dak-public). This is a boilerplate, knowledge base to share.
 
 ### :satellite: Experience
 
