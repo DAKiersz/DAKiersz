@@ -58,9 +58,9 @@ I hold AZ-104, AZ-400 and AZ-900/DP-900.
 
 - Homelab - Building secure home infrastructure and gaming servers from scratch. I'm currently rewriting the whole infra for it using state-of-the-art tools like Terraform and Ansible.
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
-- A blog [somethingstochastic.com](https://somethingstochastic.com)
-- A frontpage [kiersz.dev](https://kiersz.dev) with an updated CV, as found in my repos.
-- A public Obsidian [vault](https://dakiersz-group.gitlab.io/obsidian-dak-public/) hosted on GitLab Pages [here](https://gitlab.com/dakiersz-group/obsidian-dak-public). This is a boilerplate, knowledge base to share.
+- A blog [somethingstochastic.com](https://somethingstochastic.com) where my polished notes will eventually end up there.
+- A frontpage [kiersz.dev](https://kiersz.dev) with an updated CV.
+- My non-production Obsidian [vault](https://dakiersz-group.gitlab.io/obsidian-dak-public/) for the public domain, containing boilerplates and a general knowledge base. It's hosted on GitLab Pages [here](https://gitlab.com/dakiersz-group/obsidian-dak-public).
 
 ### :satellite: Experience
 
