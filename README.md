@@ -72,7 +72,7 @@ I am a platform engineer with experience and interests in DevOps, InfraOps, Linu
 - A frontpage [kiersz.dev](https://kiersz.dev) with a CV.
 - My non-production Obsidian [vault](https://dakiersz-group.gitlab.io/obsidian-dak-public/) for the public domain, containing boilerplates and a general knowledge base. It's [hosted](https://gitlab.com/dakiersz-group/obsidian-dak-public) on GitLab Pages.
 
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fkiersz.dev%2F) ![Blog](https://img.shields.io/website?down_color=red&down_message=offline&label=somethingstochastic.com&up_color=blue&up_message=online&url=https%3A%2F%2Fsomethingstochastic.com%2F) ![Vault](https://img.shields.io/website?down_color=red&down_message=offline&label=vault.kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fvault.kiersz.dev%2F)
+  ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fkiersz.dev%2F) ![Blog](https://img.shields.io/website?down_color=red&down_message=offline&label=somethingstochastic.com&up_color=blue&up_message=online&url=https%3A%2F%2Fsomethingstochastic.com%2F) ![Vault](https://img.shields.io/website?down_color=red&down_message=offline&label=vault.kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fvault.kiersz.dev%2F)
 
 
 ### :satellite: Experience
