@@ -15,51 +15,64 @@ Here are some ideas to get you started:
 
 ### Welcome 👋
 
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+
 <!--![counter](https://[YourEndpoint].m.pipedream.net) needs a pinpoint account-->
 
-My name is Dominik, glad you found this page.
+My name is Dominik, I'm glad you found this page.
 
-I am a platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. Always thrilled to learn new technologies and to make workflows more efficient, while efficiently communicating my changes across teams, and making friends along the way!
+I am a platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. 
 
-Over the years, I have used various scripting lanages (Python, Pwsh, Bash) and technologies like Docker to enhance my workflow, and homelab in my spare time to learn more. 
 
-Prior to joining tech, I acquired an MPhys degree at University of Kent, and worked as a postgraduate research student at Queen's University Belfast working on astronomical spectroscopy for the ESA Hera mission.
+### :computer: Tools and Skills
 
-I hold AZ-104, AZ-400 and AZ-900/DP-900.
-
-### Email
-
+<div id="skills">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode"  width="40" height="40" >
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" alt="linux"  width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" title="packer" alt="packer" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" title="vagrant" alt="vagrant" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" title="hugo" alt="hugo" width="40" height="40"/>
+  
+  Azure Devops, Powershell, ARM / Bicep, Proxmox
 <div>
-<a rel="me" href="mailto:dakiersz.ud3cc@8shield.net"> dakiersz.ud3cc@8shield.net</a> (This is alias for initial contact to prevent bot scraping)</div>
 
-### Other Links
+### Contact
 
-<div itemscope itemtype="https://schema.org/Person">
-  <a itemprop="sameAs" content="https://gitlab.com/DAKiersz" href="https://gitlab.com/DAKiersz" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgitlab-logo-png-transparent.png&f=1&nofb=1&ipt=14a61ec6c620d2eca409c6cb7e6afa734deb6f7a68105abb2c0b676bd86e0444&ipo=images" style="width:1em;margin-right:.5em;" alt="GitLab icon"> GitLab</a>
-
-<div itemscope itemtype="https://schema.org/Person">
-  <a itemprop="sameAs" content="https://www.linkedin.com/in/dakiersz/" href="https://www.linkedin.com/in/dakiersz/" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png" style="width:1em;margin-right:.5em;" alt="LinkedIn icon"> LinkedIn</a>
+<div id="badges">
+  <a href="mailto:dakiersz.ud3cc@8shield.net">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dakiersz/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://gitlab.com/DAKiersz">
+    <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+  </a>
+  <a href="https://orcid.org/0000-0001-5787-9034">
+    <img src="https://img.shields.io/badge/orcid-green?style=for-the-badge&logo=orcid&logoColor=white" alt="Orcid Badge"/>
+  </a
 </div>
 
-<div itemscope itemtype="https://schema.org/Person">
-  <a itemprop="sameAs" content="https://orcid.org/0000-0001-5787-9034" href="https://orcid.org/0000-0001-5787-9034" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> ORCID</a>
-</div>
-
-### :telescope: Currently Learning
-
-- Azure (always...)
-- Terraform
-- Ansible
-- Networking
-
-### :arrow_upper_right: Current Projects (Ongoing)
+### :arrow_upper_right: Current Projects
 
 **Be advised that currently my repositories are private and this GitHub is under construction :construction:. Thank you!**
 
-- Homelab - Building secure home infrastructure and gaming servers from scratch. I'm currently rewriting the whole infra for it using state-of-the-art tools like Terraform and Ansible.
+- Homelab (infra-proxima) - Building secure home infrastructure and gaming servers from scratch. I'm currently rewriting the whole infra for it using state-of-the-art tools like Terraform and Ansible.
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 - A blog [somethingstochastic.com](https://somethingstochastic.com) where my polished notes will eventually end up there.
-- A frontpage [kiersz.dev](https://kiersz.dev) with an updated CV.
+- A frontpage [kiersz.dev](https://kiersz.dev) with a CV.
 - My non-production Obsidian [vault](https://dakiersz-group.gitlab.io/obsidian-dak-public/) for the public domain, containing boilerplates and a general knowledge base. It's [hosted](https://gitlab.com/dakiersz-group/obsidian-dak-public) on GitLab Pages.
 
 ### :satellite: Experience
