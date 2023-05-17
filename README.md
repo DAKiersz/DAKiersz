@@ -45,7 +45,7 @@ I am a platform engineer with experience and interests in DevOps, InfraOps, Linu
   Azure Devops, Powershell, ARM / Bicep, Proxmox
 <div>
 
-### Links
+### :link: Links
 
 <div id="badges">
   <a href="mailto:dakiersz.ud3cc@8shield.net">
