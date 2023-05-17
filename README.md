@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
-<!--![counter](https://[YourEndpoint].m.pipedream.net) needs a pinpoint account-->
-
 My name is Dominik, I'm glad you found this page.
 
 I am a platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. 
