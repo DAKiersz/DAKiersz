@@ -21,7 +21,6 @@ My name is Dominik, I'm glad you found this page.
 
 I am a platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. 
 
-
 ### :computer: Tools and Skills
 
 <div id="skills">
@@ -46,7 +45,7 @@ I am a platform engineer with experience and interests in DevOps, InfraOps, Linu
   Azure Devops, Powershell, ARM / Bicep, Proxmox
 <div>
 
-### Contact
+### Links
 
 <div id="badges">
   <a href="mailto:dakiersz.ud3cc@8shield.net">
@@ -69,9 +68,12 @@ I am a platform engineer with experience and interests in DevOps, InfraOps, Linu
 
 - Homelab (infra-proxima) - Building secure home infrastructure and gaming servers from scratch. I'm currently rewriting the whole infra for it using state-of-the-art tools like Terraform and Ansible.
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
-- A blog [somethingstochastic.com](https://somethingstochastic.com) where my polished notes will eventually end up there.
+- A blog [somethingstochastic.com](https://somethingstochastic.com) where my polished notes will eventually end up there. 
 - A frontpage [kiersz.dev](https://kiersz.dev) with a CV.
 - My non-production Obsidian [vault](https://dakiersz-group.gitlab.io/obsidian-dak-public/) for the public domain, containing boilerplates and a general knowledge base. It's [hosted](https://gitlab.com/dakiersz-group/obsidian-dak-public) on GitLab Pages.
+
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fkiersz.dev%2F) ![Blog](https://img.shields.io/website?down_color=red&down_message=offline&label=somethingstochastic.com&up_color=blue&up_message=online&url=https%3A%2F%2Fsomethingstochastic.com%2F) ![Vault](https://img.shields.io/website?down_color=red&down_message=offline&label=vault.kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fvault.kiersz.dev%2F)
+
 
 ### :satellite: Experience
 
