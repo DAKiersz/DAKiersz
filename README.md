@@ -51,7 +51,7 @@ I am a platform engineer with experience and interest in DevOps, InfraOps, Linux
               
 ### :arrow_upper_right: Current Projects
 
-**Be advised that currently my repositories are private and this GitHub is under construction :construction:. Thank you!**
+**Be advised that some of my repositories and under construction :construction:. Thank you!**
 
  ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fkiersz.dev%2F) ![Blog](https://img.shields.io/website?down_color=red&down_message=offline&label=somethingstochastic.com&up_color=blue&up_message=online&url=https%3A%2F%2Fsomethingstochastic.com%2F) ![Vault](https://img.shields.io/website?down_color=red&down_message=offline&label=vault.kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fvault.kiersz.dev%2F)
 
