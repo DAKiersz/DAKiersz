@@ -13,6 +13,7 @@ I am a platform engineer with experience and interest in DevOps, InfraOps, Linux
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40" />
   <img src="icons/azure-pipelines.png" title="azure pipelines" alt="azure pipelines" width="40" height="40"/>
+  <img src="icons/github-actions.png" title="github actions" alt="github actions" width="40" height="40"/>
   <img src="icons/bicep.png" title="azure bicep" alt="azure bicep" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" title="powershell" alt="powershell" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" alt="linux"  width="40" height="40" />
@@ -21,7 +22,6 @@ I am a platform engineer with experience and interest in DevOps, InfraOps, Linux
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40" /> -->
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="40" height="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40" />
