@@ -1,18 +1,3 @@
-<!--
-**DAKiersz/DAKiersz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Welcome 👋
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
@@ -21,28 +6,31 @@ My name is Dominik, I'm glad you found this page.
 
 I am a platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. 
 
-### :computer: Tools and Skills
+### :computer: Primary Tools & Languages
 
 <div id="skills">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode"  width="40" height="40" >
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40" />
+  <img src="icons/azure-pipelines.png" title="azure pipelines" alt="azure pipelines" width="40" height="40"/>
+  <img src="icons/bicep.png" title="azure bicep" alt="azure bicep" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" title="powershell" alt="powershell" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" alt="linux"  width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
+  <img src="icons/bash.png" title="bash" alt="bash" width="40" height="40"  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40" /> -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="40" height="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" title="packer" alt="packer" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" title="vagrant" alt="vagrant" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" title="hugo" alt="hugo" width="40" height="40"/>
-  
-  Azure Devops, Powershell, ARM / Bicep, Proxmox
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40" style="background-color:#ffffff"/>
+  <img src="icons/proxmox.png" title="proxmox" alt="proxmox" width="40" height="40" style="background-color:#ffffff"/>  
 <div>
 
 ### :link: Links
@@ -59,9 +47,9 @@ I am a platform engineer with experience and interests in DevOps, InfraOps, Linu
   </a>
   <a href="https://orcid.org/0000-0001-5787-9034">
     <img src="https://img.shields.io/badge/orcid-green?style=for-the-badge&logo=orcid&logoColor=white" alt="Orcid Badge"/>
-  </a
+  </a>
 </div>
-
+              
 ### :arrow_upper_right: Current Projects
 
 **Be advised that currently my repositories are private and this GitHub is under construction :construction:. Thank you!**
