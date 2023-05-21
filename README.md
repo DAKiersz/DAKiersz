@@ -2,9 +2,8 @@
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
-My name is Dominik, I'm glad you found this page.
+I am a platform engineer with experience and interest in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. Always thrilled to learn new technologies and to make workflows more efficient, while efficiently communicating my changes across teams, and making friends along the way!
 
-I am a platform engineer with experience and interests in DevOps, InfraOps, Linux and system automation; I currently use Azure stack to deliver, as well as present solutions that enhance efficiency of my peers and fellow teams within my domain. 
 
 ### :computer: Primary Tools & Languages
 
