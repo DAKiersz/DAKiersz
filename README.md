@@ -53,9 +53,9 @@ I am a platform engineer with experience and interest in DevOps, InfraOps, Linux
 
 **Be advised that some of my repositories and under construction :construction:. Thank you!**
 
- ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fkiersz.dev%2F) ![Blog](https://img.shields.io/website?down_color=red&down_message=offline&label=somethingstochastic.com&up_color=blue&up_message=online&url=https%3A%2F%2Fsomethingstochastic.com%2F) ![Vault](https://img.shields.io/website?down_color=red&down_message=offline&label=vault.kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fvault.kiersz.dev%2F)
+ [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fkiersz.dev%2F)](https://kiersz.dev) [![Blog](https://img.shields.io/website?down_color=red&down_message=offline&label=somethingstochastic.com&up_color=blue&up_message=online&url=https%3A%2F%2Fsomethingstochastic.com%2F)](https://somethingstochastic.com) [![Vault](https://img.shields.io/website?down_color=red&down_message=offline&label=vault.kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fvault.kiersz.dev%2F)](https://vault.kiersz.dev)
 
-- Homelab (infra-proxima) - Building secure home infrastructure and gaming servers from scratch. I'm currently rewriting the whole infra for it using Terraform, Packer and Ansible.
+- Homelab (infra-proxima) - Building secure home infrastructure and gaming servers from scratch. I'm currently rewriting the whole infra for it using Terraform, Packer and Docker, Ansible.
 - MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 - A blog [somethingstochastic.com](https://somethingstochastic.com) where my polished notes will eventually end up there. 
 - A frontpage [kiersz.dev](https://kiersz.dev) with a CV.
