@@ -63,8 +63,8 @@ I am a platform engineer with experience and interest in DevOps, InfraOps, Linux
 
 ### Completed / Deprecated Projects
 
-- [Something Stochastic Blog](https://github.com/DAKiersz/something-stochastic-hugo) - The initial incarnation of this was supposed to be a blog, written in Hugo and Bootstrap my your truly. However, time got tight and my efforts concentrated elsewhere, so this domain transfered to my technical documentation website.
-- My non-production, Obsidian vault for the public domain. This was a MKDocs website [hosted](https://gitlab.com/dakiersz-group/obsidian-dak-public) on GitLab Pages. This now been migrated to [somethingstochastic.com](https://somethingstochastic.com) which preserved the domain and reduced the website count by one.
+- [Something Stochastic Blog](https://github.com/DAKiersz/something-stochastic-hugo) - The initial incarnation of this was a to be a blog, written in Hugo and Bootstrap from scratch. However, time got tight and my efforts concentrated elsewhere, so this domain transfered to my technical documentation website and the blog was shunned.
+- My Obsidian vault for the public domain. This was a MKDocs website [hosted](https://gitlab.com/dakiersz-group/obsidian-dak-public) on GitLab Pages. This now been migrated to [somethingstochastic.com](https://somethingstochastic.com).
 
 ### :satellite: Experience
 
