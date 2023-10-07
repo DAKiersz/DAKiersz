@@ -2,7 +2,7 @@
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
-I am a platform engineer with experience and interest in DevOps, InfraOps, Linux and system automation. I professionally work with Azure and hold AZ-104/400 certs.
+I am a platform engineer with experience and interest in DevOps, InfraOps, Linux and system automation. I work with Azure and hold AZ-104/400 certifications.
 
 ### :computer: Primary Tools & Languages
 
@@ -19,16 +19,21 @@ I am a platform engineer with experience and interest in DevOps, InfraOps, Linux
   <!-- <img src="icons/bash.png" title="bash" alt="bash" width="40" height="40"  /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="40" height="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" title="packer" alt="packer" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" title="vagrant" alt="vagrant" width="40" height="40" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" title="hugo" alt="hugo" width="40" height="40"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40" style="background-color:#ffffff"/>
   <img src="icons/proxmox.png" title="proxmox" alt="proxmox" width="40" height="40" style="background-color:#ffffff"/>  
-<div>
+</div>
+
+### :computer: Previously Used
+
+<div id="skills-old">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" title="hugo" alt="hugo" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40" />
+</div>
 
 ### :link: Links
 
@@ -51,12 +56,15 @@ I am a platform engineer with experience and interest in DevOps, InfraOps, Linux
 
  [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fkiersz.dev%2F)](https://kiersz.dev) [![Blog](https://img.shields.io/website?down_color=red&down_message=offline&label=somethingstochastic.com&up_color=blue&up_message=online&url=https%3A%2F%2Fsomethingstochastic.com%2F)](https://somethingstochastic.com) [![Vault](https://img.shields.io/website?down_color=red&down_message=offline&label=vault.kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fvault.kiersz.dev%2F)](https://vault.kiersz.dev)
 
-- Homelab (infra-proxima) - Building secure home infrastructure and gaming servers from scratch. I'm currently rewriting the whole infra for it using Terraform, Packer and Docker, Ansible.
-- MOTES - A astronomical spectral reduction package. Working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
-- A blog [somethingstochastic.com](https://somethingstochastic.com) where my polished notes will eventually end up there. 
+- My technical documentation website running on Material of MkDocs [somethingstochastic.com](https://somethingstochastic.com).
 - A frontpage [kiersz.dev](https://kiersz.dev) with a CV.
-- My non-production Obsidian [vault](https://dakiersz-group.gitlab.io/obsidian-dak-public/) for the public domain, containing boilerplates and a general knowledge base. It's [hosted](https://gitlab.com/dakiersz-group/obsidian-dak-public) on GitLab Pages.
+- Homelab - A continued passion with an aim to have a mini datacenter situated on a Startech 25U rack. The main project is temporarly on hold, but previously was done using Terraform, Packer and Docker, Ansible. The main server runs on Unraid Pro for the time being.
+- MOTES - An astronomical spectral reduction package as a legacy of my unfinished Doctorial studies. Working with its principal developer [Tom Seccull](https://github.com/tseccull)  :stars:
 
+### Completed / Deprecated Projects
+
+- [Something Stochastic Blog](https://github.com/DAKiersz/something-stochastic-hugo) - The initial incarnation of this was supposed to be a blog, written in Hugo and Bootstrap my your truly. However, time got tight and my efforts concentrated elsewhere, so this domain transfered to my technical documentation website.
+- My non-production, Obsidian vault for the public domain. This was a MKDocs website [hosted](https://gitlab.com/dakiersz-group/obsidian-dak-public) on GitLab Pages. This now merged with [somethingstochastic.com](https://somethingstochastic.com) to preserve the domain and is hosted on Github/Azure Static Web Apps.
 
 ### :satellite: Experience
 
