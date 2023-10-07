@@ -59,7 +59,7 @@ I am a platform engineer with experience and interest in DevOps, InfraOps, Linux
 - A frontpage [kiersz.dev](https://kiersz.dev) with a CV.
 - My technical documentation website running on Material for MkDocs [somethingstochastic.com](https://somethingstochastic.com). This is a constant WIP. Hosted on Azure Static Web Apps
 - Homelab - A continued passion with an aim to have a mini datacenter situated on a Startech 25U open frame [rack](https://www.startech.com/en-gb/server-management/4postrack25u). The main server project is temporarly on hold, but previously was developed using Terraform, Packer, Docker and Ansible. The main server currently runs on Unraid Pro as a placeholder.
-- MOTES - An astronomical spectral reduction package as a legacy of my unfinished Doctorial studies. Working with its principal developer [Tom Seccull](https://github.com/tseccull)  :stars:
+- MOTES - An astronomical spectral reduction scruot as a legacy of my unfinished Doctorial studies. I helped to write some of the algorithms while working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 
 ### Completed / Deprecated Projects
 
