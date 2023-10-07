@@ -56,15 +56,15 @@ I am a platform engineer with experience and interest in DevOps, InfraOps, Linux
 
  [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=kiersz.dev&up_color=blue&up_message=online&url=https%3A%2F%2Fkiersz.dev%2F)](https://kiersz.dev) [![Blog](https://img.shields.io/website?down_color=red&down_message=offline&label=somethingstochastic.com&up_color=blue&up_message=online&url=https%3A%2F%2Fsomethingstochastic.com%2F)](https://somethingstochastic.com)
  
-- My technical documentation website running on Material for MkDocs [somethingstochastic.com](https://somethingstochastic.com).
 - A frontpage [kiersz.dev](https://kiersz.dev) with a CV.
-- Homelab - A continued passion with an aim to have a mini datacenter situated on a Startech 25U open frame [rack](https://www.startech.com/en-gb/server-management/4postrack25u). The main project is temporarly on hold, but previously was done using Terraform, Packer, Docker and Ansible. The main server currently runs on Unraid Pro as a placeholder.
+- My technical documentation website running on Material for MkDocs [somethingstochastic.com](https://somethingstochastic.com). This is a constant WIP. Hosted on Azure Static Web Apps
+- Homelab - A continued passion with an aim to have a mini datacenter situated on a Startech 25U open frame [rack](https://www.startech.com/en-gb/server-management/4postrack25u). The main server project is temporarly on hold, but previously was developed using Terraform, Packer, Docker and Ansible. The main server currently runs on Unraid Pro as a placeholder.
 - MOTES - An astronomical spectral reduction package as a legacy of my unfinished Doctorial studies. Working with its principal developer [Tom Seccull](https://github.com/tseccull)  :stars:
 
 ### Completed / Deprecated Projects
 
-- [Something Stochastic Blog](https://github.com/DAKiersz/something-stochastic-hugo) - The initial incarnation of this was a to be a blog, written in Hugo and Bootstrap from scratch. However, time got tight and my efforts concentrated elsewhere, so this domain transfered to my technical documentation website and the blog was shunned.
-- My Obsidian vault for the public domain. This was a MKDocs website [hosted](https://gitlab.com/dakiersz-group/obsidian-dak-public) on GitLab Pages. This now been migrated to [somethingstochastic.com](https://somethingstochastic.com).
+- [Something Stochastic Blog](https://github.com/DAKiersz/something-stochastic-hugo) - The initial incarnation of this was a blog written in Hugo and Bootstrap 5.3 from scratch. However, time got tight and my efforts concentrated elsewhere, so this domain transfered to my technical documentation website and the blog was shunned.
+- My Obsidian vault for the public domain. This was previously [hosted](https://gitlab.com/dakiersz-group/obsidian-dak-public) on GitLab Pages. This now been migrated to [somethingstochastic.com](https://somethingstochastic.com), preserving the domain and the original content.
 
 ### :satellite: Experience
 
