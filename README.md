@@ -2,7 +2,7 @@
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
-I am a platform engineer with experience and interest in DevOps, InfraOps, Linux and system automation. I work with Azure and hold AZ-104/400 certifications.
+I am a platform engineer with experience and interest in DevOps, InfraOps, Linux and system automation. In enterprise settings, I work with Azure.
 
 ### :computer: Primary Tools & Languages
 
@@ -58,7 +58,7 @@ I am a platform engineer with experience and interest in DevOps, InfraOps, Linux
  
 - A frontpage [kiersz.dev](https://kiersz.dev) with a CV.
 - My technical documentation website [somethingstochastic.com](https://somethingstochastic.com) running on Material for MkDocs. This is a constant WIP and hosted on Azure Static Web Apps.
-- Homelab - A continued passion with an aim to have a mini datacenter situated on a Startech 25U open frame [rack](https://www.startech.com/en-gb/server-management/4postrack25u). The main server project is temporarly on hold, but previously was developed using Terraform, Packer, Docker and Ansible. At present, it currently runs on Unraid Pro as a placeholder.
+- Homelab - A continued passion with an aim to have a mini datacenter situated on a Startech 25U open frame [rack](https://www.startech.com/en-gb/server-management/4postrack25u). The main server project is temporarly on hold, and private to improve secret handling... but it was developed using Terraform, Packer, Docker and Ansible. At present, it currently runs on Unraid Pro as a placeholder.
 - MOTES - An astronomical spectral reduction script as a legacy of my unfinished Doctorial studies. I helped to write some of the algorithms while working with its principal developer [Tom Seccull](https://github.com/tseccull) :stars:
 
 ### Completed / Deprecated Projects
