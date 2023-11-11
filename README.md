@@ -2,7 +2,7 @@
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
-I am a platform engineer with experience and interest in DevOps, InfraOps, Linux and system automation. In enterprise settings, I use Azure stack to deliver amd present solutions that enhance efficiency of my peers and fellow teams within my domain.
+I am a platform engineer with experience and interest in DevOps, InfraOps, Linux and system automation. In enterprise settings, I use Azure stack to deliver and present solutions that enhance efficiency of my peers and fellow teams within my domain.
 
 ### :computer: Primary Tools & Languages
 
