@@ -24,32 +24,36 @@ I am a platform engineer with experience in DevOps, InfraOps, Linux and system a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="40" height="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" title="packer" alt="packer" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" title="vagrant" alt="vagrant" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40" style="background-color:#ffffff"/>
   <img src="icons/proxmox.png" title="proxmox" alt="proxmox" width="40" height="40" style="background-color:#ffffff"/>  
 </div>
 
-### :computer: Previously Used
+### :computer: Familiar with...
 
 <div id="skills-old">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" title="hugo" alt="hugo" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" title="hugo" alt="hugo" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" title="packer" alt="packer" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" title="vagrant" alt="vagrant" width="40" height="40" />
 </div>
 
 ### :link: Links
 
 <div id="badges">
-  <a href="mailto:dakiersz.ud3cc@8shield.net">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/dakiersz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://www.twitter.com/DAKiersz">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://orcid.org/0000-0001-5787-9034">
     <img src="https://img.shields.io/badge/orcid-green?style=for-the-badge&logo=orcid&logoColor=white" alt="Orcid Badge"/>
   </a>
 </div>
+
+### :rocket: Projects
+
+Revamping...
 
 ### :satellite: Experience
 
