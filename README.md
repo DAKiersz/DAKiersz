@@ -23,7 +23,7 @@ I am a platform engineer with experience in DevOps, InfraOps and system automati
   <!-- <img src="icons/bash.png" title="bash" alt="bash" width="40" height="40"  /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40" style="background-color:#ffffff"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" title="latex" alt="latex" width="40" height="40" style="background-color:#ffffff"/>
   <img src="icons/proxmox.png" title="proxmox" alt="proxmox" width="40" height="40" style="background-color:#ffffff"/>  
 </div>
 
