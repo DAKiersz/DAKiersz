@@ -52,10 +52,6 @@ I am a platform engineer with experience in DevOps, InfraOps and system automati
   </a>
 </div>
 
-### :rocket: Projects
-
-Revamping...
-
 ### :satellite: Experience
 
 You can find my CV on [kiersz.dev](https://kiersz.dev)
